@@ -1,0 +1,8 @@
+1st ve have to excute aws backend folder
+-steps
+    terraform init
+    terraform plan
+    terrafrom apply
+    terrform detroy
+
+after that excute besic_terrform_uasge with same above steps
